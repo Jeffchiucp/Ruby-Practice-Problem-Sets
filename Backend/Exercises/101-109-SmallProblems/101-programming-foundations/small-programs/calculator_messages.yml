@@ -1,0 +1,13 @@
+en:
+  welcome: "Welcome to Calculator!"
+  first_num: "Please enter the first number:"
+  valid_num: "Please enter a valid number"
+  second_num: "Please enter the second number:"
+  valid_operation: "Please pick a valid operation"
+
+es:
+  welcome: "Bienvenido a Calculadora!"
+  first_num: "Introduzca el primer número:"
+  valid_num: "por favor ingrese un número valido"
+  second_num: "Introduzca el segundo número:"
+  valid_operation: "Seleccione una operación válida"

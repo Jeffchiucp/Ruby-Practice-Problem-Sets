@@ -1,0 +1,21 @@
+en:
+  welcome: "Welcome to the Mortgage Payment Calculator!"
+  loan_amount: "Enter the loan amount:"
+  valid_number: "Please enter a positive number greater than zero."
+  apr_amount: "What is the APR percentage?"
+  valid: "Please enter a valid number."
+  loan_duration: "What is the loan duration in months?"
+  again: "Do you want to perform another calculation?"
+  invalid_answer: "Invalid. Please enter y or n."
+  bye: "Thanks for using the Mortgage Calculator. Goodbye!"
+
+es:
+  welcome: "Bienvenido a la Calculadora de Pago de Hipoteca!"
+  loan_amount: "Ingrese el monto del préstamo:"
+  valid_number: "Ingrese un número positivo mayor que cero"
+  apr_amount: "¿Cuál es el porcentaje de APR?"
+  valid: "Por favor ingrese un número valido."
+  loan_duration: "¿Cuál es la duración del préstamo en meses?"
+  again: "¿Desea realizar otro cálculo?"
+  invalid_answer: "Inválido. Por favor, introduzca y o n."
+  bye: "Gracias por usar la calculadora de hipotecas. ¡Adiós!"
