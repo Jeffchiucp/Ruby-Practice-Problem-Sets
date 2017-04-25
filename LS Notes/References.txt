@@ -1,0 +1,6 @@
+The General Approach for Problem Solving:
+https://launchschool.com/gists/c013accd
+
+Exercices:
+https://launchschool.com/exercises#ruby_basics
+

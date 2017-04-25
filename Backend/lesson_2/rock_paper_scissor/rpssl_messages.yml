@@ -1,0 +1,5 @@
+you_scored: "Score for you!"
+computer_scored: "Score for computer!"
+tie: "It's a tie!"
+wrong_input: "That is not a valid choice."
+bye: "Thank you for playing. Good bye!"
