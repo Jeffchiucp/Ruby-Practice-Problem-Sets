@@ -29,6 +29,7 @@ end
 puts factors(0)
 
 
+
 # Bonus 1: What is the purpose of the number % dividend == 0 ?
 # answer => purpose is to see if the result of the division is an integer number and has no remainder
 
