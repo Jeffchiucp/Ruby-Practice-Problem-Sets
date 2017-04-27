@@ -77,7 +77,6 @@ loop do # main loop
     computer_choice = computer_picks
     prompt "You chose: #{CHOICES[player_choice]}, Computer chose:" \
            " #{computer_choice}"
-
     display_winner(CHOICES[player_choice], computer_choice)
     score(CHOICES[player_choice], computer_choice, scoreboard)
     display_score(CHOICES[player_choice], computer_choice, scoreboard)
